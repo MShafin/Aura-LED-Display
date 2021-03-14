@@ -12,7 +12,7 @@
 </p>
 
 ## About The Project
-The goal for this project was to create a functional and efficient alternative to changng the names of teams on the score clock present in the gymnasium during annual basketball tournaments. Our end resulting prototype was a working LED Display that is easy to mount and repair thanks to its modular design.
+The goal for this project was to create a functional and efficient alternative to changng the names of teams on the score clock present in the gymnasium during annual basketball tournaments. Our end resulting prototype was a working LED Display that is easy to mount, use, and repair thanks to its modular design and simple mobile app. 
 
 <p align="center">
   <a ![pic](fusion360 render.png)> <img style='height: auto; width: 100%; object-fit: contain' alt="pic" src="Additional Files/fusion360 render.png"/> </a>
